@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Zefri Fahlevi Irdiansyah </span>
             from <span className="purple"> Indonesia</span>
-            <br />I am a junior developer,
-            Mesra.
+            <br />I am a Junior Developer, still Learning and Study
+            Spirit.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -21,7 +21,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Coding
+              <ImPointRight /> Coding, Study
             </li>
             <li className="about-activity">
               <ImPointRight /> Playing Guitar
@@ -29,7 +29,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Success won't find you, you have to look for it!"{" "}
           </p>
           <footer className="blockquote-footer">Zefrifahlevi</footer>
         </blockquote>
