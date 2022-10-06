@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Zefri Fahlevi Irdiansyah </span>
             from <span className="purple"> Indonesia</span>
-            <br />I am a Junior Developer, still Learning and Study
-            Spirit.
+            <br />I am a Junior Developer, still Learning and Study.
+            Keep Spirit.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
