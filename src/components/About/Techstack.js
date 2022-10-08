@@ -11,7 +11,7 @@ import {
 } from "react-icons/di";
 import {
   SiPytorch,
-  SiFirebase,
+  SiReduxsaga,
   SiNextdotjs,
 } from "react-icons/si";
 
@@ -40,7 +40,7 @@ function Techstack() {
         <DiGit /> <h5>Git</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase /> <h5>Firebase</h5>
+        <SiReduxsaga /> <h5>Redux</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython /> <h5>Python</h5>
