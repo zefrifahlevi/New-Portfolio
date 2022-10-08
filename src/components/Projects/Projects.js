@@ -22,8 +22,8 @@ function Projects() {
               isBlog={false}
               title="Informatika"
               description="Blogs saya Tentang Informatika, untuk informasi lebih lanjut klik 'My Blog'"
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/zefrifahlevi"
+              demoLink="https://zefrifahlevi.blogspot.com/"
             />
           </Col>
 
